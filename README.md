@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on backend technologies<br>🌱 I’m currently learning IOS Developement and GoLang<br>
+🔭 I’m currently working on backend technologies.<br>🌱 I’m currently learning IOS Developement and GoLang.<br>💬 Talk with me about Backend Development, DevOps, Server Management.
+
 
 
 # 💻 Tech Stack:
