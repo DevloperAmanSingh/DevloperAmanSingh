@@ -14,6 +14,7 @@ Most of my recent work is on **agent harnesses**: the layer around a model that 
 |---|---|---|
 | [quantcell](https://github.com/DevloperAmanSingh/quantcell) | Multi-agent platform for financial research and trading. Agents run as independent A2A services, the planner pauses for human approval, and research is grounded in SEC filings | Python, LangGraph, A2A, LanceDB |
 | [atlas](https://github.com/DevloperAmanSingh/atlas) | Self-learning text-to-SQL agent that grounds queries in schema, business rules and past fixes, and runs only read-only SQL | Python, FastAPI, pgvector |
+| [open-research](https://github.com/DevloperAmanSingh/open-research) | RAG over research papers that answers with page-located citations and scores its own faithfulness. A knowledge-graph retrieval path is in progress | Python, Qdrant, Neo4j, LangGraph |
 | [ReviewBot](https://github.com/DevloperAmanSingh/ReviewBot) | GitHub App that reviews pull requests with an LLM and comments issues by severity | Python, FastAPI |
 | [watcher](https://github.com/DevloperAmanSingh/watcher) | Distributed HTTP uptime monitoring engine with worker pools and event-driven alerting | Go, TimescaleDB |
 | [waspdb](https://github.com/DevloperAmanSingh/waspdb) | Vector database built from first principles, for learning how similarity search works | Python, FastAPI |
